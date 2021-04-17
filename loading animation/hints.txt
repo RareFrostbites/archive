@@ -1,1 +1,0 @@
-The project file only works on Motion Ninja (Android).
